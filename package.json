@@ -1,7 +1,7 @@
 {
-  "name": "material-icon-theme",
-  "displayName": "Material Icon Theme",
-  "description": "Material Design Icons for Visual Studio Code",
+  "name": "material-icon-theme-nebula",
+  "displayName": "Material Icon Theme (w/ Nebula)",
+  "description": "Material Design Icons for Visual Studio Code. Includes icon for Nebula Support",
   "version": "3.6.0",
   "publisher": "PKief",
   "engines": {
